@@ -36,6 +36,7 @@ public class HashSets {
     }
     
     //iterator - traverse. Two Types --> hasNext & next 
+    //unordered 
     Iterator it = set.iterator();
      while(it.hasNext())
      {
