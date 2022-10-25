@@ -1,5 +1,6 @@
 import java.util.HashSet;
 import java.util.Iterator;
+//unordered set
 public class HashSets {
  public static void main(String args[])
  {

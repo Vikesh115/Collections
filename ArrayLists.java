@@ -27,8 +27,8 @@ class ArrayLists {
         System.out.println(list);
 
         //delete element
-        list.remove(3);
-        System.out.println(list);
+        // list.remove(3);
+        // System.out.println(list);
 
         //size
         int size = list.size();
@@ -40,7 +40,7 @@ class ArrayLists {
             System.out.print(list.get(i));
         }
         System.out.println();
-
+        
         //sorting
         Collections.sort(list);
         System.out.println(list);
